@@ -1,0 +1,14 @@
+﻿python-dotenv
+langchain_core
+langchain_openai
+langgraph
+langchain_core
+langchain_community
+neo4j-graphrag
+neo4j-graphrag[openai]
+langchain
+langchain_experimental
+langchain_neo4j
+neo4j
+truststore
+langchain-text-splitters
